@@ -9,10 +9,18 @@ Setup della propria postazione per lo sviluppo
 Suddivisione in gruppi:
 
 A. Porcarelli, Manpreet, Pira, Bravi
-B. Ruggeri, Leporoni, Autu
-C. Bartocci, Rigoni, Rocchi
+B. Ruggeri, Leporoni, Autu, Mehdi
+C. Bartocci, Rigoni, Rocchi, Veiga
 D. Gabriele, Mercurelli, Zurzolo, Fugnanesi
-E. Prab, Roscini, Fantini
+E. Prab, Roscini, Fantini, Vivoli
+
+## Risultati attesi per martedì 2017-11-28
+
+1. account su github.com e iscrizione all'organizzazione itis-lessons-3ai
+2. installare Arduino IDE e Visual Studio Code OSS su una postazione di sviluppo
+3. copiare il progetto blink di Arduino per il pin 13
+
+# Parte posticipata
 
 ## Risultati attesi
 
