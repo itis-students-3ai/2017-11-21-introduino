@@ -41,8 +41,7 @@ Suddivisione in gruppi:
 
 
 
-
-# Parte posticipata
+# Appunti da rivedere
 
 ## Risultati attesi
 
@@ -70,3 +69,5 @@ Sapere cosa sono:
 3. github.com
 4. concetto di `repository`
 5. Operazioni di base di git: clone, pull, commit e push
+6. Divertirsi con il nuovo kit
+
